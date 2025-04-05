@@ -20,3 +20,18 @@ int main() {
 
     return 0;
 }
+
+
+#include <stdio.h> 
+
+int main (); {
+int estado, populaçao, numero de pontos turisticos
+char codigo [50]
+char nome da cidade [50]
+float area, pib
+
+printf ("estado: /n");
+scanf ("%d", &estado);
+
+
+}
